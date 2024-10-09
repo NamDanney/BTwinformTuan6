@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\BUS.dll.config
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\BUS.dll
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\DAL.dll
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\DAL.pdb
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\DAL.dll.config
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\obj\Debug\BUS.dll
+C:\Users\admin\source\repos\Mo_Hinh_3Lop\BUS\obj\Debug\BUS.pdb
